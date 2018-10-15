@@ -39,7 +39,7 @@
     "babel-preset-stage-1": "^6.24.1",
     "babel-register": "^6.24.1",
     "copy-webpack-plugin": "^4.0.1",
-    "css-loader": "^0.28.4",
+    "css-loader": "^1.0.0",
     "eslint": "^4.0.0",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-config-airbnb-base": "^11.2.0",
