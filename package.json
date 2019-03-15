@@ -65,7 +65,7 @@
     "lodash.round": "^4.0.4",
     "matreshka": "^2.4.0",
     "matreshka-binders-file": "0.0.2",
-    "uglify-js": "^3.3.27"
+    "uglify-js": "^3.4.10"
   },
   "peerDependencies": {
     "pm2": "^1.1.3"
